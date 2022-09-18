@@ -16,7 +16,7 @@
 
 ---
 
-Credit : [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Credit : [Soumyajit4419](https://github.com/soumyajit4419). Thanks!
 
 ## Built With
 
