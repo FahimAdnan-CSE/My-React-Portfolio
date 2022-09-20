@@ -3,7 +3,7 @@
   <a href="https://fahim-shahriar-adnan-portfolio.netlify.app/" target="_blank">Fahim Shahriar Adnan</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Screenshot_1.jpg" />
 </div>
 
 <br/>
